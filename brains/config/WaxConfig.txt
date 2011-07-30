@@ -1,0 +1,16 @@
+none
+50
+true
+0
+0
+0
+FreeSans 11
+58853
+58853
+58853
+#e5e5e5e5e5e5
+on
+#artist# - #album# - #title#
+nil
+playlist.txt
+bottom-right
