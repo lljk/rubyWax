@@ -7,11 +7,10 @@
 
   rubyWax requires ruby-gtk2 and gstreamer.
 
-  Tested (by me) on Ubuntu 10.04 lucid, with ruby 1.8.7 and gtk2 0.19.3.  For some reason I can't properly install gtk2 0.90.x or 1.0 with any version of ruby for further testing, and I've given up trying for the moment.  I hope it works with later versions, but no guarantees...
-  This "wicked alpha" release is intended for testing, so please - run it, play with it, try to break it, and get back to me with any questions / comments / concerns at jakekaiden@gmail.com .
+  This "wicked alpha" release is intended for testing, so please - run it, play with it, try to break it, and get back to me with any questions / comments / concerns.
 
- 
   That said, fire the thing up...  run rubyWax.rb, and off we go!
+
 
 ADDING TRACKS
 
