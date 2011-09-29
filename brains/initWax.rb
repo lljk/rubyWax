@@ -160,9 +160,6 @@ class Wax
 	
 		if @atBat != nil
 			@atBatURI = GLib.filename_to_uri(@atBat)
-			#parts = @atBat.split(@sep)
-			#pop = parts.pop
-			#dir = parts.join(@sep)
 			dir = File.dirname(@atBat)
 			Dir.chdir(dir)
 			files = Dir['*.{jpg,JPG,png,PNG,gif,GIF}']
