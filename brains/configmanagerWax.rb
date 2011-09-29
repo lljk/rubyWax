@@ -2,7 +2,7 @@
 	
 	this file is part of:
     rubyWax
-    v 0.11.08
+    v 0.11.10
     
      an audio player for folks who miss their vinyl
 

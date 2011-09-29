@@ -1,5 +1,5 @@
     rubyWax
-    0.11.08 wicked alpha
+    0.11.10 wicked alpha
 
      ...an audio player for folks who miss their vinyl...
 
