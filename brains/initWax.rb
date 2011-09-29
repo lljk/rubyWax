@@ -28,7 +28,7 @@ class Wax
 		
 	def initialize
 	
-		@versioninfo = "rubyWax v.0.11.08"
+		@versioninfo = "rubyWax v.0.11.10"
 		@info = @versioninfo
 	
 		f = File.expand_path(__FILE__)
